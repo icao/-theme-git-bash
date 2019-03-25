@@ -1,0 +1,21 @@
+# config.c
+
+Black       = #212836
+Red         = #ff4571
+Green       = #00fa8e
+Yellow      = #fffb90
+Blue        = #4889fa
+Magenta     = #d18dee
+Cyan        = #00f6fa
+White       = #a0a2b7
+BoldBlack   = #212836
+BoldRed     = #ff4571
+BoldGreen   = #6af699
+BoldYellow  = #fffb90
+BoldBlue    = #4889fa
+BoldMagenta = #d18dee
+BoldCyan    = #00f6fa
+BoldWhite   = #a0a2b7
+
+
+
